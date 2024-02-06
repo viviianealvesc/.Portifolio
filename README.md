@@ -18,5 +18,5 @@ Meu portfólio é uma vitrine virtual onde apresento meu trabalho, experiência 
 
 # 🌐Link do portifólio
 
-https://viviianealvesc.github.io/Portifolio/
+https://viviianealvesc.github.io/Portfolio/
  
